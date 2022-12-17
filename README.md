@@ -1,2 +1,5 @@
 # Mandelbrot_Explorer
-Explore the Mandelbrot set. Application to dive into the fractal body with a GUI for the user interaction.
+Explore the Mandelbrot set. Dive into the fractal body with a GUI.
+The graphical output can be exported as PNG image. 
+Low resolution example:
+![mandelbrot-02](https://user-images.githubusercontent.com/84280875/208235393-0816fd36-19d6-447b-a560-291c76ecf64e.jpg)
